@@ -36,8 +36,6 @@
     tags = tag -l
     this = !git init && git add . && git commit -m \"Initial commit.\"
     trim = !git reflog expire --expire=now --all && git gc --prune=now
-[credential]
-    helper = osxkeychain
 [color]
     ui = true
 [color "branch"]
