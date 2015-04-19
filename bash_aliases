@@ -58,8 +58,6 @@ alias py="python"
 alias rdesktop="rdesktop -g 1154x864 -a 16"
 
 # SSH shorthands
-alias homer="ssh -Y rsharm14@rsass-homer.uncc.edu"
-
 
 # Modelsim check
 alias vmpf="vsim *.mpf &"
